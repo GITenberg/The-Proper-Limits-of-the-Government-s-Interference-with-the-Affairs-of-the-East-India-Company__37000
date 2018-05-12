@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '38583'
     url: http://www.gutenberg.org/2009/agents/38583
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37000#The-Proper-Limits-of-the-Government-s-Interference-with-the-Affairs-of-the-East-India-Company_
 gutenberg_issued: '2011-08-07'
 gutenberg_type: Text
 identifiers:
